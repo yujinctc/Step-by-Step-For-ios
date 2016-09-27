@@ -59,6 +59,6 @@ Step1.You see in the file :shipit: <br />
 Step1.Create a readme.md and create a wiki page
 
 ### Task12: create issues ###
-Step1.create two issues.
-Step2.@mentions someone and reference another issue.
+Step1.create two issues.<br />
+Step2.@mentions someone and reference another issue.<br />
 
