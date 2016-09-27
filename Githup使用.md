@@ -8,7 +8,7 @@ _本教程不做过多解释，一切以实践为主，请按步骤完成工作�
 Step 1.Read [GitHub Guides](https://guides.github.com/) - 官方的GitHub使用指引<br />
 Step 2.Create your account<br />
 Step 3.Create a repository named “Hello world”<br />
-Step 4.Create a new branch（you can call it myNewBranch）and edit to make a change。（题外话：markdown）<br />
+Step 4.Create a new branch（you can call it myNewBranch）and edit to make a change。（题外话：[markdown](http://daringfireball.net/projects/markdown/dingus)）<br />
 Step 5.Open a pull request（using [@mention system](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar)）<br />
 Step 6.Merge your Pull Request.<br />
 
@@ -53,4 +53,6 @@ Step2.find some repository to star and unstar. star用于收藏<br />
 Step3.find some repository to watch and unwatch. watch用于关注，不时发送更新信息到你的个人面板dashboard上。<br />
 
 ### Task10:using markdown <br /> ###
-Step1.
+Step1.You see in the file <br />
+
+
