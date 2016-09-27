@@ -53,6 +53,12 @@ Step2.find some repository to star and unstar. star用于收藏<br />
 Step3.find some repository to watch and unwatch. watch用于关注，不时发送更新信息到你的个人面板dashboard上。<br />
 
 ### Task10:using markdown <br /> ###
-Step1.You see in the file <br />
+Step1.You see in the file :shipit: <br />
 
+### Task11: create a readme and wiki ###
+Step1.Create a readme.md and create a wiki page
+
+### Task12: create issues ###
+Step1.create two issues.
+Step2.@mentions someone and reference another issue.
 
