@@ -4,6 +4,8 @@
     1.1 代码编写:
     command + /           注释命令
     ctrl    + i           自动对齐
+    ctrl    + command + E 范围编辑，在当前文件批量修改代码
+
 
     1.2 查找与搜索
     command + 3           导航栏搜索
