@@ -34,6 +34,7 @@
 2.1 [xcode菜单选项详细探索](http://www.cocoachina.com/ios/20151204/14480.html) <br />
 2.2 要点:
 * 当多次重构工程造成代码没有错却编译失败时，可以尝试删除DerivedData目录。DerivedData目录是Xcode的编译缓存
+* 关于workspace，project，target，schema。[参考](http://www.jianshu.com/p/1308a199f168)
 
 ### 3. 特别问题
 3.1 [高效使用你的xcode](http://www.cocoachina.com/ios/20140731/9284.html)<br />
